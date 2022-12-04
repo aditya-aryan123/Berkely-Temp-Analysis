@@ -19,9 +19,13 @@ This project involved two datasets. The data that we are going to use for this i
 ## File Structure:
 
 Analysis.ipynb: Analyzed the netCdf dataset using xarray and visualtion using cartopy and hvplot.
+
 Untitled.ipynb: File for ARIMA model tuning.
-script_3.py: File for Berkely Temperature Model building using Facebook's Prophet model
-cru.py: File for CRU Temperature Model building using Facebook's Prophet model
+
+script_3.py: File for Berkely Temperature Model building using Facebook's Prophet model.
+
+cru.py: File for CRU Temperature Model building using Facebook's Prophet model.
+
 grid_search.py: Grid Search for Prophet model.
 
 
