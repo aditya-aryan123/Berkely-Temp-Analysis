@@ -26,4 +26,3 @@ This project involved two datasets. The data that we are going to use for this i
 6. Facebook Prophet
 7. Pandas
 8. statsmodels
-9. 
